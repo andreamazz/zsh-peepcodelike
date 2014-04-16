@@ -10,4 +10,4 @@ Installation
 
 Screenshot
 ----------------
-![Peepcodelike-ZSH](http://www.eflatgames.com/github/github-zsh.png)
+![Peepcodelike-ZSH](https://raw.githubusercontent.com/andreamazz/zsh-peepcodelike/master/screenshot.png)
