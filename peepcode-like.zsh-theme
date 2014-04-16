@@ -39,4 +39,4 @@ local smiley="%(?,%{$fg[green]%}☺%{$reset_color%},%{$fg[red]%}☹%{$reset_colo
 
 PROMPT='${smiley}  %{$fg[yellow]%} %~ '
 
-RPROMPT='%{$fg[white]%} $(~/.rvm/bin/rvm-prompt)$(git_prompt)%{$reset_color%}'
+RPROMPT='%{$fg[white]%} $(git_prompt)%{$reset_color%}'
